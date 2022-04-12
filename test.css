@@ -44,14 +44,14 @@
     .tg .grosseCase {
         border-color: inherit;
         color: #009901;
-        text-align: left;
-        vertical-align: top
+        text-align: center;
+        vertical-align: top;
     }
 
     .tg .tresLongueCase {
         border-color: inherit;
         color: #ffc702;
-        text-align: left;
+        text-align: center;
         vertical-align: top
     }
 
